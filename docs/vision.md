@@ -1,7 +1,7 @@
 Biblefed.org vision
 ===
 
-**Maxwell's demon**  is a thought experiment which "shows that the Second Law
+**Maxwell's demon**  is a thought experiment showng "that the Second Law
 of Thermodynamics has only a statistical certainty." [1]
 
 The demon is a doorman. The demon is discerning. The demon decreases disorder.
@@ -22,16 +22,15 @@ intellegence a proxy decision. [4] Google, etc., are doormen for information.
 
 Universities, traditionally, are also the doormen for information; and also
 professional organizations, and increasingly ethical and legal standards. Keepers of religion, more anciently, are doormen to communities of ethical
-behaviour.i
+behaviour.
 
-This is the vision of **BibleFed** An organization engine for communities.
+This is the vision of **BibleFed**, an organization engine for communities.
 
 Community Organization Engine
 ---
 
 A cluster of computers can process more information than a single computer.
 However, programming a cluster of computers involves a more complexity.
-
 Similarly, a group of people can process more information than an individual.
 However, group decisions are also subject to an additional level of complexity.
 
@@ -48,6 +47,8 @@ in parallel. Similarly; to leverage the collective intelligence of a group
 of people requires a parallel algorithm. An common, if not essential, feature 
 of parallel algorithms is a method of partitioning the data, i.e. breaking the
 problem down into manageable pieces, or "batches."
+
+### Trees ###
 
 
 
