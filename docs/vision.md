@@ -1,7 +1,7 @@
 Biblefed.org vision
 ===
 
-## *Maxwell's demon* ## is a thought experiment which "shows that the Second Law of 
+**Maxwell's demon**  is a thought experiment which "shows that the Second Law of 
 Thermodynamics has only a statistical certainty." [1]
 
 The demon is a doorman. The demon is discerning. The demon decreases disorder.
