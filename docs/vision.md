@@ -1,16 +1,14 @@
 Biblefed.org vision
 ===
 
-**Maxwell's demon**  is a thought experiment which "shows that the Second Law of 
-Thermodynamics has only a statistical certainty." [1]
+**Maxwell's demon**  is a thought experiment which "shows that the Second Law
+of Thermodynamics has only a statistical certainty." [1]
 
 The demon is a doorman. The demon is discerning. The demon decreases disorder.
 However, the value of the doorman must exceed the wages of the doorman. [2]
 
 A human doorman is capable of discerning only a finite number of people.
-Robin Dunbar quantified this number to approximately 150. [3]
-
-A doorman exceeds the Dunbar number by using proxies. Proxies include badges,
+Robin Dunbar quantified this number to approximately 150. [3] A doorman exceeds the Dunbar number by using proxies. Proxies include badges,
 diplomas, titles, uniforms, language, shiboleths ... and on the internet
 superhighway; proxies empower gigascale computation.
 
@@ -20,17 +18,13 @@ resources to crowd source discernment. Each member of a community digitally
 records judgments and an algorithm compiles a curated "doorman's" list.
 
 Google, Reddit, Hacker News, ... are doormen who discern through collective
-intellegence a proxy decision. [4]
-
-Google, etc., are doormen for information.
+intellegence a proxy decision. [4] Google, etc., are doormen for information.
 
 Universities, traditionally, are also the doormen for information; and also
-professional organizations, and increasingly ethical and legal standards.
+professional organizations, and increasingly ethical and legal standards. Keepers of religion, more anciently, are doormen to communities of ethical
+behaviour.i
 
-Keepers of religion, more anciently, are doormen to communities of ethical
-behaviour.
-
-This is the vision of `BibleFed.` An organization engine for communities.
+This is the vision of **BibleFed** An organization engine for communities.
 
 Community Organization Engine
 ---
